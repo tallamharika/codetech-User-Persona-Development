@@ -53,7 +53,9 @@ This project successfully demonstrates how user personas help designers understa
 
 ### GitHub Repository Screenshot
 
-![GitHub Repository](proof2.png)
+### Proof 3 – GitHub Repository Upload
+
+![GitHub Repository Upload](https://github.com/tallamharika/codetech-User-Persona-Development/edit/main/README.md)
 
 ### User Avatar
 
