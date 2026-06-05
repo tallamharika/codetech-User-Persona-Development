@@ -4,9 +4,9 @@
 
 Company: CODTECH IT SOLUTIONS
 
-Intern Name: KANDEPU DHANA LAKSHMI
+Intern Name: TALLAM HARIKA
 
-Intern ID: CITS2813
+Intern ID: CITS2799
 
 Domain: UI/UX Design
 
